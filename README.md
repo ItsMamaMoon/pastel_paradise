@@ -8,3 +8,6 @@
 
 
 Pastel Paradise is a total(ish) conversion dynos pack for Super Mario 64 Coop DX.
+
+How to install: open SM64CoopDX, drag and drop the zip directly onto the main menu.
+If you wish to install the dynos pack directly, drop the folder in your %appdata%, sm64coopdx\dynos.
