@@ -1,0 +1,16 @@
+extern const GeoLayout transparent_star_geo[];
+extern Lights1 transparent_star_f3dlite_material_004_lights;
+extern Lights1 transparent_star_f3dlite_material_005_lights;
+extern u8 transparent_star_star_surface_transparent_rgba16_ci8[];
+extern u8 transparent_star_star_surface_transparent_rgba16_pal_rgba16[];
+extern u8 transparent_star_star_eye_closed_rgba16_ia8[];
+extern Vtx transparent_star_DL_mesh_layer_5_vtx_0[32];
+extern Gfx transparent_star_DL_mesh_layer_5_tri_0[];
+extern Vtx transparent_star_DL_mesh_layer_4_vtx_0[12];
+extern Gfx transparent_star_DL_mesh_layer_4_tri_0[];
+extern Gfx mat_transparent_star_f3dlite_material_004[];
+extern Gfx mat_revert_transparent_star_f3dlite_material_004[];
+extern Gfx mat_transparent_star_f3dlite_material_005[];
+extern Gfx mat_revert_transparent_star_f3dlite_material_005[];
+extern Gfx transparent_star_DL_mesh_layer_5_with_revert[];
+extern Gfx transparent_star_DL_mesh_layer_4_with_revert[];
