@@ -7,8 +7,6 @@
 
 "Princess Toadstool made a cake for Mario, but she's feeling really down. Mario has to gather all the love in the world to make her feel better!"
 
-<img width="1911" height="1000" alt="image" src="https://github.com/user-attachments/assets/8e7eab24-b2aa-457a-b029-8149e395ed7e" />
-
 
 
 Pastel Paradise is a total(ish) conversion dynos pack for Super Mario 64 Coop DX.
